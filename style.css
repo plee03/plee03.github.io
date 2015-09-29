@@ -2,8 +2,21 @@
 
 
 h1 {
-    text-align: center
+    text-align: center;
 }
 
-body {
+p {
+    margin-left: 2.2%;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.jobtitle {
+    font-weight: bold;
+}
+
+.jobdate {
+    font-style: Italic;
 }
