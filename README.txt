@@ -12,7 +12,7 @@ This submission consists of the following files:
     - resume.html
     - bio.html
     - style.css
-    - README.md
+    - README.txt
     - peter.jpg
 which are mostly self-descriptive.
 style.css is used by resume.html.
